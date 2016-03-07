@@ -1,0 +1,3 @@
+http://thoughts.async7.com/how-to-use-visual-studios-3-way-merge-for-your-git-mergetool/
+
+git clone https://github.com/jntwrigh/esrigithub.git twesrigit

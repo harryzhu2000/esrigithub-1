@@ -1,7 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <message>Hello Friends and non-friends and animals!! Hi from 
 
 messing with file to make a conflict
 =======
 <message>Hello Friends and non-friends and animals!! Hi from GitHubServer</message>
 >>>>>>> 8c228845a292de970d99d5b242e7adc802726a68
+=======
+<<<<<<< HEAD
+<message>Hello Friends and non-friends and animals!! Hi from Todd</message>
+=======
+<message>Hello Friends and non-friends and animals!! Hi from GitHubServer</message>
+>>>>>>> 8c228845a292de970d99d5b242e7adc802726a68
+=======
+<message>Hello Friends and non-friends and animals!! Hi from Joe! Hi from GitHubServer</message>
+>>>>>>> 5a81062013be66ffaf6effb0363fa3ce75891748
+>>>>>>> a6331bbe17b0611a99f5540cd4476601ff2ac9fe
